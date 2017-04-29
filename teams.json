@@ -1,70 +1,70 @@
 [
   {
     "name": "Atlas",
-    "icon": "img/atlas.png"
+    "icon": "imgs/atlas.png"
   },
   {
     "name": "Chiapas",
-    "icon": "img/chiapas.png"
+    "icon": "imgs/chiapas.png"
   },
   {
     "name": "Club América",
-    "icon": "img/america.png"
+    "icon": "imgs/america.png"
   },
   {
     "name": "Cruz Azul",
-    "icon": "img/cruzazul.png"
+    "icon": "imgs/cruzazul.png"
   },
   {
     "name": "Guadalajara",
-    "icon": "img/chivas.png"
+    "icon": "imgs/chivas.png"
   },
   {
     "name": "León",
-    "icon": "img/leon.png"
+    "icon": "imgs/leon.png"
   },
   {
     "name": "Monterrey",
-    "icon": "img/monterrey.png"
+    "icon": "imgs/monterrey.png"
   },
   {
     "name": "Morelia",
-    "icon": "img/morelia.png"
+    "icon": "imgs/morelia.png"
   },
   {
     "name": "Necaxa",
-    "icon": "img/necaxa.png"
+    "icon": "imgs/necaxa.png"
   },
   {
     "name": "Pachuca",
-    "icon": "img/pachuca.png"
+    "icon": "imgs/pachuca.png"
   },
   {
     "name": "Puebla",
-    "icon": "img/puebla.png"
+    "icon": "imgs/puebla.png"
   },
   {
     "name": "Querétaro",
-    "icon": "img/queretaro.png"
+    "icon": "imgs/queretaro.png"
   },
   {
     "name": "Santos Laguna",
-    "icon": "img/santos.png"
+    "icon": "imgs/santos.png"
   },
   {
     "name": "Tijuana",
-    "icon": "img/xolos.png"
+    "icon": "imgs/xolos.png"
   },
   {
     "name": "Toluca",
-    "icon": "img/toluca.png"
+    "icon": "imgs/toluca.png"
   },
   {
     "name": "U.A.N.L.",
-    "icon": "img/tigres.png"
+    "icon": "imgs/tigres.png"
   },
   {
     "name": "U.N.A.M.",
-    "icon": "img/pumas.png"
+    "icon": "imgs/pumas.png"
   }
 ]

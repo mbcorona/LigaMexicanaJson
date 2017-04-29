@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Atlas",
+    "icon": "img/atlas.png"
+  },
+  {
+    "name": "Chiapas",
+    "icon": "img/chiapas.png"
+  },
+  {
+    "name": "Club América",
+    "icon": "img/america.png"
+  },
+  {
+    "name": "Cruz Azul",
+    "icon": "img/cruzazul.png"
+  },
+  {
+    "name": "Guadalajara",
+    "icon": "img/chivas.png"
+  },
+  {
+    "name": "León",
+    "icon": "img/leon.png"
+  },
+  {
+    "name": "Monterrey",
+    "icon": "img/monterrey.png"
+  },
+  {
+    "name": "Morelia",
+    "icon": "img/morelia.png"
+  },
+  {
+    "name": "Necaxa",
+    "icon": "img/necaxa.png"
+  },
+  {
+    "name": "Pachuca",
+    "icon": "img/pachuca.png"
+  },
+  {
+    "name": "Puebla",
+    "icon": "img/puebla.png"
+  },
+  {
+    "name": "Querétaro",
+    "icon": "img/queretaro.png"
+  },
+  {
+    "name": "Santos Laguna",
+    "icon": "img/santos.png"
+  },
+  {
+    "name": "Tijuana",
+    "icon": "img/xolos.png"
+  },
+  {
+    "name": "Toluca",
+    "icon": "img/toluca.png"
+  },
+  {
+    "name": "U.A.N.L.",
+    "icon": "img/tigres.png"
+  },
+  {
+    "name": "U.N.A.M.",
+    "icon": "img/pumas.png"
+  }
+]

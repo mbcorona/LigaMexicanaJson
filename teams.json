@@ -83,5 +83,15 @@
     "name": "pumas",
     "label": "U.N.A.M.",
     "icon": "imgs/pumas.png"
+  },
+  {
+    "name": "lobos",
+    "label": "Lobos BUAP",
+    "icon": "imgs/lobos.png"
+  },
+  {
+    "name": "veracruz",
+    "label": "Veracruz",
+    "icon": "imgs/veracruz.png"
   }
 ]
